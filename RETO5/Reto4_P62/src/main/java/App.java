@@ -92,7 +92,7 @@ public class App extends JFrame {
         this.add(vinculo);
         
         datosp.setText("Realizado por: Alexander Latorre Grupo: 62"); 
-        vinculo.setText("Enlace: https://github.com/ALITOS2021/DS_JAVA.git");        
+        vinculo.setText("Enlace: https://github.com/ALITOS2021/DS_JAVA/tree/main/RETO5/Reto4_P62");        
        
         boton.addActionListener(new ActionListener() {
             
